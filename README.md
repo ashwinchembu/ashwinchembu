@@ -1,47 +1,73 @@
-# Ashwin Chembu
+<p align="center">
+  <img src="assets/github-profile-header.svg" alt="Ashwin Chembu — Full-Stack Engineering, Applied AI, and Data Platforms" width="100%" />
+</p>
 
-Full-stack and applied AI engineer building reliable products, data platforms, and human-in-the-loop automations.
+<p align="center">
+  <a href="https://ashchembu.com"><img src="https://img.shields.io/badge/Portfolio-ashchembu.com-C8FF32?style=for-the-badge&labelColor=11130F" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ashwin-chembu-a5292b205/"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF6846?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=11130F" alt="LinkedIn" /></a>
+  <a href="https://ashchembu.com/resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-View-EEEDE7?style=for-the-badge&labelColor=11130F" alt="Résumé" /></a>
+</p>
 
-I work across React/TypeScript frontends, Node.js and Python services, RAG systems, enterprise integrations, and healthcare data workflows. I am especially interested in product engineering, applied AI, backend integrations, and forward-deployed engineering.
+I build full-stack products and applied AI systems that turn ambiguous workflows into reliable software. My work spans React and TypeScript interfaces, Python and Node.js services, grounded RAG/search, cloud integrations, and healthcare data platforms.
 
-## Featured projects
+Currently building AI, data, and enterprise workflow systems at **ZS Associates** in the San Francisco Bay Area.
 
-### [Lume - AI Meeting Intelligence](https://github.com/ashwinchembu/work-helper)
+<table>
+  <tr>
+    <td align="center" width="33%"><strong>327K+</strong><br /><sub>records analyzed in data-quality workflows</sub></td>
+    <td align="center" width="33%"><strong>Nearly 4,000</strong><br /><sub>users reached through collaborative tooling</sub></td>
+    <td align="center" width="33%"><strong>Five figures</strong><br /><sub>raised for product development</sub></td>
+  </tr>
+</table>
 
-Full-stack meeting intelligence with live transcription, reusable project knowledge, citation-backed RAG, and document-grounded answers.
+## Selected work
 
-`React` `Node.js` `MongoDB` `AWS S3` `WebSockets` `RAG`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ashwinchembu/work-helper">Lume ↗</a></h3>
+      <p>AI meeting intelligence with live transcription, reusable Project Brain knowledge, and citation-backed RAG.</p>
+      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>WebSockets</code> <code>RAG</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ashwinchembu/render-filedrop">Private Filedrop ↗</a></h3>
+      <p>Secure cross-device file exchange with authenticated APIs, durable storage, version history, webhooks, OpenAPI, and MCP tools.</p>
+      <p><code>Node.js</code> <code>Express</code> <code>AWS S3</code> <code>OpenAPI</code> <code>MCP</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ashwinchembu/E-commerceWebsiteDesign">3D Commerce Experience ↗</a></h3>
+      <p>Responsive varsity-jacket storefront with a real-time Three.js product builder and reusable commerce flows.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Three.js</code> <code>Vite</code> <code>Tailwind</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ashwinchembu/forge">Forge ↗</a></h3>
+      <p>Personal fitness-intelligence backend unifying training, nutrition, sleep, heart-rate, and recovery data.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>MongoDB</code> <code>Webhooks</code> <code>Render</code></p>
+    </td>
+  </tr>
+</table>
 
-### [Private Filedrop](https://github.com/ashwinchembu/render-filedrop)
+## What I work with
 
-Secure cross-device file exchange with authenticated APIs, S3-compatible storage, version history, signed webhooks, OpenAPI documentation, and MCP integrations.
+| Product engineering | Applied AI and data | Platforms and quality |
+| --- | --- | --- |
+| React, TypeScript, Node.js, Python, FastAPI | RAG, vector search, document ingestion, Snowflake, SQL | AWS, Firebase, MongoDB, Redis, Docker, Playwright |
 
-`Node.js` `Express` `AWS S3` `OpenAPI` `MCP` `Webhooks`
+## More engineering
 
-### [3D Commerce Experience](https://github.com/ashwinchembu/E-commerceWebsiteDesign)
-
-Interactive varsity-jacket storefront and product builder with reusable React components and real-time Three.js model customization.
-
-`React` `TypeScript` `Three.js` `Vite` `Tailwind CSS`
-
-### [Forge](https://github.com/ashwinchembu/forge)
-
-Personal fitness intelligence backend integrating data from Hevy, MyFitnessPal, Oura, and Apple Health.
-
-`Python` `APIs` `Data Integration` `Analytics`
-
-## Professional strengths
-
-- Full-stack product delivery with React, TypeScript, Python, FastAPI, Node.js, Firebase, and MongoDB
-- Applied AI systems using RAG, vector search, document ingestion, evidence extraction, and grounded response workflows
-- Data engineering and MDM using SQL, Snowflake, entity resolution, identifier matching, reconciliation, and automated quality checks
-- Enterprise workflow delivery spanning requirements, CRM/UAT validation, stakeholder documentation, and executive-ready artifacts
-- Reliable automation with approval gates, idempotent processing, audit trails, duplicate prevention, and explicit failure handling
+- [Enterprise Healthcare Dashboard](https://github.com/ashwinchembu/Enterprisehealthcaredashboarddesign) — component-driven React/TypeScript and Vue interfaces for complex healthcare workflows.
+- [Azure RAG Document Search](https://github.com/ashwinchembu/RAGpoc) — multi-format ingestion, FAISS retrieval, source citations, and interactive Q&A.
+- [ECS150 File System](https://github.com/ashwinchembu/ecs150_p2) — FAT-style file system with virtual-disk emulation, descriptors, persistence, and edge-case testing in C.
 
 ## Background
 
-- B.S. Computer Science, University of California, Davis, 2025
-- AWS Certified Cloud Practitioner
-- ICER publication on undergraduate research pipelines in computing
+- B.S. Computer Science, **University of California, Davis**
+- **AWS Certified Cloud Practitioner** and Google Data Analytics Certificate
+- Co-author of an **ICER publication** on undergraduate research pipelines in computing
 
-[Portfolio](https://ashchembu.com) · [LinkedIn](https://www.linkedin.com/in/ashwin-chembu-a5292b205/)
+<p align="center">
+  <strong>Open to full-stack, applied AI, backend, and forward-deployed engineering opportunities in the Bay Area.</strong><br />
+  <a href="https://ashchembu.com">Explore the full portfolio →</a>
+</p>
