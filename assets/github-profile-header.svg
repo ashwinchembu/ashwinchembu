@@ -1,41 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title description">
   <title id="title">Ashwin Chembu</title>
-  <desc id="description">Full-stack engineering, applied AI and data systems. Based in San Francisco, California. Coral and mint panels with a Golden Gate Bridge illustration.</desc>
-  <defs>
-    <clipPath id="location"><rect x="744" width="456" height="520" rx="28" /></clipPath>
-  </defs>
-  <rect width="724" height="520" rx="28" fill="#ff936f" />
-  <rect x="744" width="456" height="520" rx="28" fill="#cceade" />
-  <g fill="#25231f" font-family="Arial, Helvetica, sans-serif">
-    <text x="44" y="66" font-size="26">Hello, I’m</text>
-    <text x="38" y="205" font-size="132" font-weight="700" letter-spacing="-8">Ashwin</text>
-    <text x="38" y="340" font-size="132" font-weight="700" letter-spacing="-8">Chembu.</text>
-    <g font-size="23">
-      <rect x="44" y="403" width="140" height="48" rx="24" fill="#e1d7f5" />
-      <text x="65" y="435">Full-stack</text>
-      <rect x="196" y="403" width="150" height="48" rx="24" fill="#dfec9b" />
-      <text x="217" y="435">Applied AI</text>
-      <rect x="358" y="403" width="182" height="48" rx="24" fill="#f8f4eb" />
-      <text x="379" y="435">Data systems</text>
-    </g>
-    <circle cx="640" cy="427" r="33" fill="#25231f" />
-    <path d="m627 414 25 25m-25 0h25v-25" stroke="#ff936f" stroke-width="4" fill="none" />
-    <text x="780" y="58" font-size="23">Based in</text>
-    <text x="778" y="143" font-size="68" font-weight="600" letter-spacing="-3">San</text>
-    <text x="778" y="215" font-size="68" font-weight="600" letter-spacing="-3">Francisco.</text>
+  <desc id="description">Full-stack / Applied AI / Data systems. San Francisco, California. A typography-led header in coral, mint and ink.</desc>
+  <rect width="1200" height="520" fill="#25231f" />
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="248" fill="#ff936f" font-size="112" font-weight="700" letter-spacing="-5">Ashwin Chembu</text>
+    <text x="68" y="322" fill="#cceade" font-size="30" font-weight="400">Full-stack / Applied AI / Data systems</text>
+    <text x="68" y="448" fill="#cceade" font-size="24" font-weight="400">San Francisco, California</text>
   </g>
-  <g clip-path="url(#location)">
-    <g transform="translate(744 238) scale(.95)">
-      <circle cx="356" cy="65" r="38" fill="#f1c96b" />
-      <path d="M0 204Q58 151 119 189T244 190T386 160T480 183V260H0Z" fill="#dfec9b" />
-      <g stroke="#a93c27" fill="none" stroke-linecap="square">
-        <path d="M7 198H473M7 209H473" stroke-width="7" />
-        <path d="M126 62V231M148 62V231M331 88V231M353 88V231M126 83H148M126 112H148M126 151H148M331 106H353M331 137H353M331 171H353" stroke-width="7" />
-        <path d="M0 166Q65 153 137 66Q236 233 342 91Q410 162 480 176" stroke-width="4" />
-        <path d="M30 161V198M58 149V198M86 126V198M110 99V198M170 114V198M197 143V198M225 160V198M254 162V198M283 148V198M309 124V198M376 124V198M405 148V198M435 163V198M463 172V198" stroke-width="2" />
-      </g>
-      <path d="M0 244H480" stroke="#173e37" stroke-width="2" />
-    </g>
-  </g>
-  <text x="780" y="500" fill="#25231f" font-family="Arial, Helvetica, sans-serif" font-size="20">California, USA</text>
 </svg>
