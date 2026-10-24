@@ -1,24 +1,18 @@
-<p align="center">
-  <img src="assets/github-profile-header.svg" alt="Ashwin Chembu — Full-Stack Engineering, Applied AI, and Data Platforms" width="100%" />
-</p>
+<a href="https://ashchembu.com">
+  <img src="assets/github-profile-header.svg" alt="Ashwin Chembu — Full-stack engineering, applied AI and data systems. San Francisco, California." width="100%" />
+</a>
 
 <p align="center">
-  <a href="https://ashchembu.com"><img src="https://img.shields.io/badge/Portfolio-ashchembu.com-C8FF32?style=for-the-badge&labelColor=11130F" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ashwin-chembu-a5292b205/"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF6846?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=11130F" alt="LinkedIn" /></a>
-  <a href="https://ashchembu.com/resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-View-EEEDE7?style=for-the-badge&labelColor=11130F" alt="Résumé" /></a>
+  <a href="https://ashchembu.com"><strong>Portfolio ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://ashchembu.com/resumes/Chembu_Ashwin_General.pdf"><strong>Résumé ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/ashwin-chembu-a5292b205/"><strong>LinkedIn ↗</strong></a>
 </p>
 
-I build full-stack products and applied AI systems that turn ambiguous workflows into reliable software. My work spans React and TypeScript interfaces, Python and Node.js services, grounded RAG/search, cloud integrations, and healthcare data platforms.
+## From messy context to working software.
 
-Currently building AI, data, and enterprise workflow systems at **ZS Associates** in the San Francisco Bay Area.
+I’m a **full-stack engineer in San Francisco** building useful products, grounded AI, and reliable services. I connect React and TypeScript interfaces to Python and Node.js APIs, data pipelines, and real-time workflows.
 
-<table>
-  <tr>
-    <td align="center" width="33%"><strong>327K+</strong><br /><sub>records analyzed in data-quality workflows</sub></td>
-    <td align="center" width="33%"><strong>Nearly 4,000</strong><br /><sub>users reached through collaborative tooling</sub></td>
-    <td align="center" width="33%"><strong>Five figures</strong><br /><sub>raised for product development</sub></td>
-  </tr>
-</table>
+At **ZS Associates**, my work spans applied AI, healthcare data systems, and CRM product workflows. Previously, I co-founded **Tallyrus** and built collaborative research tools with **Tech4Good**. I studied computer science at **UC Davis**.
 
 ## Selected work
 
@@ -26,48 +20,76 @@ Currently building AI, data, and enterprise workflow systems at **ZS Associates*
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ashwinchembu/work-helper">Lume ↗</a></h3>
-      <p>AI meeting intelligence with live transcription, reusable Project Brain knowledge, and citation-backed RAG.</p>
-      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>WebSockets</code> <code>RAG</code></p>
+      <p><strong>Meeting context you can use.</strong><br />Capture meetings and files, build reusable project knowledge, and retrieve answers with source citations.</p>
+      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>RAG</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ashwinchembu/render-filedrop">Private Filedrop ↗</a></h3>
-      <p>Secure cross-device file exchange with authenticated APIs, durable storage, version history, webhooks, OpenAPI, and MCP tools.</p>
-      <p><code>Node.js</code> <code>Express</code> <code>AWS S3</code> <code>OpenAPI</code> <code>MCP</code></p>
+      <p><strong>Files and work, across devices.</strong><br />Versioned file exchange and durable job coordination through authenticated APIs, MCP tools, and signed webhooks.</p>
+      <p><code>Node.js</code> <code>Express</code> <code>S3</code> <code>MCP</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ashwinchembu/E-commerceWebsiteDesign">3D Commerce Experience ↗</a></h3>
-      <p>Responsive varsity-jacket storefront with a real-time Three.js product builder and reusable commerce flows.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Three.js</code> <code>Vite</code> <code>Tailwind</code></p>
+      <h3><a href="https://github.com/ashwinchembu/E-commerceWebsiteDesign">3D Commerce ↗</a></h3>
+      <p><strong>Configure it. See it.</strong><br />A responsive storefront and Three.js jacket configurator with garment customization, reusable commerce flows, and WebGL recovery.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Three.js</code> <code>Vite</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ashwinchembu/forge">Forge ↗</a></h3>
-      <p>Personal fitness-intelligence backend unifying training, nutrition, sleep, heart-rate, and recovery data.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>MongoDB</code> <code>Webhooks</code> <code>Render</code></p>
+      <p><strong>A clearer picture of training.</strong><br />Bring workouts, nutrition, sleep, and recovery signals together through scheduled integrations, webhooks, and program-aware analysis.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>MongoDB</code> <code>Webhooks</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ashwinchembu/agent-curtain">Agent Curtain ↗</a></h3>
+      <p><strong>Privacy with a clear boundary.</strong><br />A macOS utility that covers connected displays, hands authentication to the real Lock Screen, and restricts its local control interface.</p>
+      <p><code>Python</code> <code>macOS</code> <code>Unix sockets</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ashwinchembu/RAGpoc">Azure RAG Search ↗</a></h3>
+      <p><strong>Ask questions of your documents.</strong><br />A proof of concept for multi-format ingestion, chunking, vector retrieval, and citation-backed Q&amp;A.</p>
+      <p><code>Python</code> <code>Azure OpenAI</code> <code>FAISS</code> <code>LangChain</code></p>
     </td>
   </tr>
 </table>
 
-## What I work with
+[More projects and detailed case studies →](https://ashchembu.com/#work)
 
-| Product engineering | Applied AI and data | Platforms and quality |
-| --- | --- | --- |
-| React, TypeScript, Node.js, Python, FastAPI | RAG, vector search, document ingestion, Snowflake, SQL | AWS, Firebase, MongoDB, Redis, Docker, Playwright |
+## Across the stack
 
-## More engineering
+| Focus | Tools and practices |
+| --- | --- |
+| **Product** | React, TypeScript, Next.js, responsive interfaces, Three.js |
+| **Services** | Python, Node.js, FastAPI, Express, REST APIs, MCP, WebSockets |
+| **Applied AI** | Retrieval, embeddings, source grounding, LangChain, FAISS, LangSmith |
+| **Data & cloud** | SQL, Snowflake, MongoDB, Firebase, AWS, Cloudflare Workers / D1 |
+| **Quality** | Playwright, Vitest, pytest, authorization tests, human review |
 
-- [Enterprise Healthcare Dashboard](https://github.com/ashwinchembu/Enterprisehealthcaredashboarddesign) — component-driven React/TypeScript and Vue interfaces for complex healthcare workflows.
-- [Azure RAG Document Search](https://github.com/ashwinchembu/RAGpoc) — multi-format ingestion, FAISS retrieval, source citations, and interactive Q&A.
-- [ECS150 File System](https://github.com/ashwinchembu/ecs150_p2) — FAT-style file system with virtual-disk emulation, descriptors, persistence, and edge-case testing in C.
+## Research & collaboration
 
-## Background
+At Tech4Good, I built FigJam collaboration workflows and analyzed **43,340 interaction rows across 2,805 sessions** with Python/Pandas. The [FigJam toolkit](https://github.com/davmantor/FigJam-Widgets) is a shared, collaborator-owned project.
 
-- B.S. Computer Science, **University of California, Davis**
-- **AWS Certified Cloud Practitioner** and Google Data Analytics Certificate
-- Co-author of an **ICER publication** on undergraduate research pipelines in computing
+Co-author of:
 
-<p align="center">
-  <strong>Open to full-stack, applied AI, backend, and forward-deployed engineering opportunities in the Bay Area.</strong><br />
-  <a href="https://ashchembu.com">Explore the full portfolio →</a>
-</p>
+- **ICER 2024 · Published** — [Evaluating Exploratory Reading Groups for Supporting Undergraduate Research Pipelines in Computing](https://doi.org/10.1145/3632620.3671104).
+- **ACM SIGCSE TS 2027 · Accepted / upcoming** — [Improving Curriculum Through Collaboration: Exploring A Participatory Approach to Course Design](https://2027.sigcse-ts.acm.org/track/sigcse-ts-2027-Papers-1).
+
+<details>
+  <summary><strong>Find the résumé for your focus</strong></summary>
+
+- [General](https://ashchembu.com/resumes/Chembu_Ashwin_General.pdf)
+- [Full-stack / Product](https://ashchembu.com/resumes/Chembu_Ashwin_Full-Stack.pdf)
+- [Applied AI / RAG](https://ashchembu.com/resumes/Chembu_Ashwin_Applied-AI.pdf)
+- [Backend / Platform](https://ashchembu.com/resumes/Chembu_Ashwin_Backend.pdf)
+- [Data / MDM](https://ashchembu.com/resumes/Chembu_Ashwin_Data-MDM.pdf)
+- [Frontend](https://ashchembu.com/resumes/Chembu_Ashwin_Frontend.pdf)
+- [Solutions / FDE](https://ashchembu.com/resumes/Chembu_Ashwin_Solutions-FDE.pdf)
+- [Salesforce / CRM](https://ashchembu.com/resumes/Chembu_Ashwin_Salesforce-CRM.pdf)
+
+</details>
+
+---
+
+**Have a hard problem worth solving?** [Let’s talk →](mailto:ashchembu@gmail.com)
